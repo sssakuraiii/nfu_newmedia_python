@@ -7,7 +7,7 @@ weather_forecast
 用户得到输出结果为：天气信息表格
 ## 从输入到输出，本组作品使用了：
 ### 模块
-* [urllib.request](https://github.com/python-visualization/folium)
+* [urllib.request](https://docs.python.org/3.5/library/urllib.htmlm)
 ### API
 * [和风天气](https://www.heweather.com//)
 每天免费限量访问4000次
